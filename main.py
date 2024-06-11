@@ -1,5 +1,5 @@
 import discord , os , random
-from oh-no import sifre,ZOR
+from oh_no import sifre,ZOR
 from discord.ext import commands
 
 intents = discord.Intents.default()
